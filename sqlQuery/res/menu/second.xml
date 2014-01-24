@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    
+    <item
+        android:id="@+id/action_search"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_search_api_holo_light"
+        android:title="Search"
+        android:actionViewClass="android.widget.SearchView"/>
+
+</menu>
